@@ -1,0 +1,13 @@
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\demooo\test\bin\Debug\netcoreapp1.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\demooo\test\bin\Debug\netcoreapp1.1\xunit.runner.utility.netstandard15.dll
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\demooo\test\bin\Debug\netcoreapp1.1\xunit.runner.reporters.netstandard15.dll
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\demooo\test\bin\Debug\netcoreapp1.1\test.deps.json
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\demooo\test\bin\Debug\netcoreapp1.1\test.runtimeconfig.json
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\demooo\test\bin\Debug\netcoreapp1.1\test.runtimeconfig.dev.json
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\demooo\test\bin\Debug\netcoreapp1.1\test.dll
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\demooo\test\bin\Debug\netcoreapp1.1\test.pdb
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\demooo\test\bin\Debug\netcoreapp1.1\proj.dll
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\demooo\test\bin\Debug\netcoreapp1.1\proj.pdb
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\demooo\test\obj\Debug\netcoreapp1.1\test.AssemblyInfo.cs
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\demooo\test\obj\Debug\netcoreapp1.1\test.dll
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\demooo\test\obj\Debug\netcoreapp1.1\test.pdb

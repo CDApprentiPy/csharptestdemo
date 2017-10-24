@@ -1,0 +1,8 @@
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\demooo\proj\bin\Debug\netcoreapp1.1\proj.deps.json
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\demooo\proj\bin\Debug\netcoreapp1.1\proj.runtimeconfig.json
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\demooo\proj\bin\Debug\netcoreapp1.1\proj.runtimeconfig.dev.json
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\demooo\proj\bin\Debug\netcoreapp1.1\proj.dll
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\demooo\proj\bin\Debug\netcoreapp1.1\proj.pdb
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\demooo\proj\obj\Debug\netcoreapp1.1\proj.AssemblyInfo.cs
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\demooo\proj\obj\Debug\netcoreapp1.1\proj.dll
+C:\Users\Alan Weber\Desktop\teacher\apprenti\csharp\lectures\wk2\demos\demooo\proj\obj\Debug\netcoreapp1.1\proj.pdb
